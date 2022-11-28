@@ -1,4 +1,4 @@
-# Weight tracker app
+# Weight tracker
 
 ## Description
 
@@ -13,4 +13,4 @@ This app allows you to track your weight in time and shows you how much have you
 
 **date-fns, vanilla js**
 
-[Go to the page]()
+<a href="https://porfolio-jeferson-weight-tracker.netlify.app/" target="_blank">Go to the page</a>
